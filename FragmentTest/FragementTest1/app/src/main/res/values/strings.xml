@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragementTest1</string>
+    <string name="analog">Analog Converter</string>
+    <string name="digital">Digital Converter</string>
+</resources>
